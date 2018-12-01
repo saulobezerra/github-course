@@ -7,3 +7,5 @@ modificado depois de comitado
 
 Gostou do curso?
 Enviando mudançãs para um repositório remoto
+
+git stash
